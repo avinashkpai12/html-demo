@@ -1,6 +1,7 @@
 form li{
     list-style: none;
     margin-bottom: 20px;
+    background-color: beige;
 }
 
 form ul{
